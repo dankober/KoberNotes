@@ -13,4 +13,8 @@
 ## Property
 * FC - Coverage Information
 * RT - Rating Information
-*
+
+## General Liability
+* LL - Liability Limits
+* GL - General Liability Class Information
+* GU Coverage Summary
