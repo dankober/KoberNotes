@@ -4,6 +4,7 @@
 
 * BP - Basic Policy Information
 * CI - Comments
+* DU - Description / Use
 * FL - GainWeb Generated (raw segments)
 * ER - Errors
 * ES - Endorsements
@@ -17,4 +18,4 @@
 ## General Liability
 * LL - Liability Limits
 * GL - General Liability Class Information
-* GU Coverage Summary
+* GU - Coverage Summary
