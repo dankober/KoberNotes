@@ -19,3 +19,8 @@
 * LL - Liability Limits
 * GL - General Liability Class Information
 * GU - Coverage Summary
+
+## Crime
+* CR - Crime Rating / Limits
+* CW - Crime Worksheet
+* CE - Crime Employee Schedule
