@@ -10,6 +10,7 @@
 * ES - Endorsements
 * FF - Forms
 * FS - Forms (sans Commercial Auto)
+* SD - Statistics (Premium calculation)
 
 ## Property
 * FC - Coverage Information
