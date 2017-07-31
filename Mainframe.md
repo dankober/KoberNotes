@@ -1,6 +1,8 @@
 # Mainframe Notes
 
-## Policy Info
+## Screens
+
+### Policy Info
 
 * BP - Basic Policy Information
 * CI - Comments
@@ -12,16 +14,26 @@
 * FS - Forms (sans Commercial Auto)
 * SD - Statistics (Premium calculation)
 
-## Property
+### Property
 * FC - Coverage Information
 * RT - Rating Information
 
-## General Liability
+### General Liability
 * LL - Liability Limits
 * GL - General Liability Class Information
 * GU - Coverage Summary
 
-## Crime
+### Crime
 * CR - Crime Rating / Limits
 * CW - Crime Worksheet
 * CE - Crime Employee Schedule
+
+## Useful Stuff
+
+### Server Rating
+EICI Screen should have a comment on it that looks like this:
+
+```
+REASON BR
+COMMENT   ENVIRONMENT=ZURG
+```
